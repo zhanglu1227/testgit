@@ -6,5 +6,8 @@ echo '菜鸟教程：www.runoob.com';
 echo '菜鸟教程：www.runoob.com';
 echo '菜鸟教程：www.runoob.com';
 ?
+<<<<<<< HEAD
 
-Creating a new branch is quick AND simple.>
+=======
+>>>>>>> feature1
+.>
